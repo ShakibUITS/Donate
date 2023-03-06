@@ -55,8 +55,140 @@ a {
     margin-top: 15rem;
 }
 
-.box {
+.box2 {
+    margin-left: 28%;
     display: flex;
-    box-shadow: 5px 5px 10px gray;
+    margin-bottom: 70px;
+}
+
+.box-shadow {
+    box-shadow: 0px 0px 10px gray;
+    padding: 30px;
+    margin: 10px;
+    font-size: 20px;
     text-align: center;
+}
+
+.border {
+    border: 2px solid red;
+    background-color: rgb(255, 182, 182);
+}
+
+.Amount {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.submit {
+    text-align: center;
+    border: 0;
+    outline: 0;
+    background-color: none;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    width: 60%;
+}
+
+.Button {
+    text-align: center;
+}
+
+.Donet-content {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.box3 {
+    display: flex;
+}
+
+.shadow3 {
+    box-shadow: 0px 0px 0px gray;
+    text-align: justify;
+    padding: 30px;
+    margin: 20px;
+    width: 33.33%
+}
+
+.bg1 {
+    background-color: rgb(237, 220, 253);
+}
+
+.bg2 {
+    background-color: rgb(253, 214, 227);
+}
+
+.bg3 {
+    background-color: rgb(255, 245, 218);
+}
+
+.shadow-header {
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.third-content {
+    display: flex;
+    margin-top: 10%;
+}
+
+.cont1 {
+    font-size: 3rem;
+    text-align: justify;
+    margin: 10%;
+}
+
+.img1 {
+    height: 70%;
+    margin-top: 9%;
+}
+
+.update {
+    font-size: 3rem;
+    text-align: center;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.box4 {
+    box-shadow: 0px 0px 0px gray;
+    background-color: rgb(247, 241, 162);
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#email {
+    border: none;
+    padding: 5%;
+    outline: none;
+}
+
+#subscribe {
+    border: none;
+    padding: 12%;
+    background-color: rgb(52, 156, 156);
+    color: white;
+    margin-left: 18px;
+}
+
+.foot {
+    text-align: center;
+    margin-top: 4%;
+    color: white;
+    background-color: black;
+    padding: 5%;
+}
+
+span {
+    font-family: 'Italianno', cursive;
+    color: rgb(52, 156, 156);
+    font-size: 3rem;
+    margin-bottom: 3%;
 }
